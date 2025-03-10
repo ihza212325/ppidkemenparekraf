@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'PlusJakartaSansBold'; 
+    src: url('PlusJakartaSans-Bold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'PlusJakartaSansLight'; 
+    src: url('PlusJakartaSans-Light.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'PlusJakartaSansSemiBold'; 
+    src: url('PlusJakartaSans-SemiBold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'PlusJakartaSansReguler'; 
+    src: url('PlusJakartaSans-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'PtSansReguler'; 
+    src: url('PTSans-Regular.ttf') format('truetype');
+}
