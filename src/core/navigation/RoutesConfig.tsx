@@ -8,12 +8,13 @@ import Regulasi from "../../Pages/Regulasi/Regulasi";
 import Laporan from "../../Pages/Laporan/Laporan";
 import Rangkuman from "../../Pages/DIP/Rangkuman";
 import Informasi from "../../Pages/DIP/Informasi";
+import Beranda from "../../Pages/Beranda/Beranda";
 
 function RoutesConfig() {
   return (
     <BaseLayout>
       <Routes>
-        <Route path="/kategori/PROFIL-SINGKAT" element={<ProfileSingkat />} />
+        <Route path="/" element={<Beranda />} />
         <Route path="/kategori/TUGAS-DAN-FUNGSI" element={<TugasDanFungsi />} />
         <Route
           path="/kategori/STRUKTUR-PPID"

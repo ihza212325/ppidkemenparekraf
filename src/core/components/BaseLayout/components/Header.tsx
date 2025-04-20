@@ -7,6 +7,7 @@ function Header() {
   let menu = [
     {
       name: "Beranda",
+      navigation: "/",
     },
     {
       name: "Profil",
